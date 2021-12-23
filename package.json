@@ -1,0 +1,27 @@
+{
+  "name": "news-proxy-api",
+  "version": "1.0.0",
+  "description": "News Proxy API Powered By The Guardian",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "Guardian",
+    "news"
+  ],
+  "author": "Krossing Technology",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "needle": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
