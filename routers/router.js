@@ -1,7 +1,7 @@
-const { fetchNews } = require('../controllers/controller');
+const { fetchNews } = require('../controllers/controller')
 
-const router = require('express').Router();
+const router = require('express').Router()
 
-router.get('/', fetchNews);
+router.get('/', fetchNews)
 
-module.exports = router;
+module.exports = router
