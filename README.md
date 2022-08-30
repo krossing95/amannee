@@ -2,7 +2,7 @@
 
 # Documentation
 
-# This is a proxy RESTful API for a guardian news API that can be consumed to develop a full fledged React Js, Vue Js and Angular JS News application.
+# This is a proxy API for a guardian news API that can be consumed to develop a full fledged React Js, Vue Js and Angular JS News application.
 # With the various API endpoints incorporated, the API can retrieve current and recently added news feeds from the Guardian News database.
 
 # Endpoints
