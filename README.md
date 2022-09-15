@@ -7,14 +7,14 @@
 
 # Endpoints
 
-# Base API URl = https://amannee.herokuapp.com/api/
+# Base API URl = https://amannee-server.onrender.com/
 
 # To change a particular page in the list, the page number is specified in the url as follows;
-# https://amannee.herokuapp.com/api?page=10
+# https://amannee-server.onrender.com/api?page=10
 # Note that on every page, there are 30 news items that can be accessed.
 
 # To make a search or pass a search query, the following URl is applicable;
-# https://amannee.herokuapp.com/api?q=something
+# https://amannee-server.onrender.com/api?q=something
 # This retrieves about 120 search results from the Guardian news API
 
 ##########################################################################################################
